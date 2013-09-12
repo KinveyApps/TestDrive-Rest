@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		27295D9017E208CE00D34E2F /* X.m in Sources */ = {isa = PBXBuildFile; fileRef = 27295D8F17E208CE00D34E2F /* X.m */; };
 		2734600416518D5A00CD66C5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2734600316518D5A00CD66C5 /* UIKit.framework */; };
 		2734600616518D5A00CD66C5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2734600516518D5A00CD66C5 /* Foundation.framework */; };
 		2734600E16518D5A00CD66C5 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2734600C16518D5A00CD66C5 /* InfoPlist.strings */; };
@@ -22,8 +21,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		27295D8E17E208CE00D34E2F /* X.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = X.h; sourceTree = "<group>"; };
-		27295D8F17E208CE00D34E2F /* X.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = X.m; sourceTree = "<group>"; };
 		27345FFF16518D5A00CD66C5 /* Kinvey Test Drive.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Kinvey Test Drive.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2734600316518D5A00CD66C5 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		2734600516518D5A00CD66C5 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -90,8 +87,6 @@
 				2734601B16518D5A00CD66C5 /* MainStoryboard.storyboard */,
 				2734601E16518D5A00CD66C5 /* ViewController.h */,
 				2734601F16518D5A00CD66C5 /* ViewController.m */,
-				27295D8E17E208CE00D34E2F /* X.h */,
-				27295D8F17E208CE00D34E2F /* X.m */,
 				273460261651904900CD66C5 /* TestObject.h */,
 				273460271651904900CD66C5 /* TestObject.m */,
 				2734600A16518D5A00CD66C5 /* Supporting Files */,
@@ -183,7 +178,6 @@
 				2734601016518D5A00CD66C5 /* main.m in Sources */,
 				2734601416518D5A00CD66C5 /* AppDelegate.m in Sources */,
 				2734602016518D5A00CD66C5 /* ViewController.m in Sources */,
-				27295D9017E208CE00D34E2F /* X.m in Sources */,
 				273460281651904900CD66C5 /* TestObject.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
