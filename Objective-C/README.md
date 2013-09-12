@@ -1,7 +1,7 @@
-TestDrive-Rest
-==============
+TestDrive-iOS
+=============
 
-Examples of using Kinvey's service in various languages
+Test Drive Kinvey With This Simple App
 
 
 
@@ -20,8 +20,3 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
-
-
-## Support
-
-support@kinvey.com
