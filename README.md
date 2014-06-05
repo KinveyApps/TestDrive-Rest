@@ -3,11 +3,16 @@ TestDrive-Rest
 
 Examples of using Kinvey's service in various languages
 
+* Objective-C
+    * Interact directly with REST API Using NSURLSession 
+    * Requires XCode 5+, iOS 7+
+* Swift
+    * Requires XCode 6+, iOS 8+
 
 
 ## License
 
-Copyright (c) 2013 Kinvey, Inc.
+Copyright (c) 2014 Kinvey, Inc.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -24,4 +29,4 @@ limitations under the License.
 
 ## Support
 
-support@kinvey.com
+https://support.kinvey.com/
